@@ -1,5 +1,6 @@
 <div align="center" width="50">
 
+<img src="images/HelloG.gif" href="https://github.com/Tejas978" alt="Workspace"  width="45%"/><br> 
 <img src="images/dev-working_rounded.gif" href="https://github.com/Tejas978" alt="Workspace"  width="40%"/><br> 
 
 </details>
@@ -58,7 +59,7 @@
 - 💻 I'm a Fullstack Developer, currently building **Web & AI-powered applications**
 - ⏳ Exploring **MERN Stack, Firebase, and AI/ML integration**
 - 🚀 Always ready to collaborate on exciting projects and hackathons
-- 👨‍🎓 Final-year IT Engineering Student at **Mumbai University (Graduating May 2026)**
+- 👨‍🎓 Final-year IT Engineering Student at **Mumbai University**
 - 🎯 Life Hack: "Code, Learn, Build, Repeat"
 - 🏆 Developed projects like **Neuro-Sync**, **Crypto  Tracker**, and **Medical Diagnosis Assistant**
 - ⚡ Fun fact: I love exploring  **PC building**, and experimenting with new tech tools
