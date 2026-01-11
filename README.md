@@ -38,17 +38,15 @@
 
 ## 💻 Featured Projects
 
-[![](https://img.shields.io/badge/-🧠%20NeuroSync-000)](https://github.com/yourusername/NeuroSync)  
-> AI-powered Doctor Appointment App with integrated scheduling and health analytics.
+[![](https://img.shields.io/badge/-🚀%20SkillBoost-000)](https://github.com/yourusername/SkillBoost)  
+> **SkillBoost** is an AI-powered Learning Management System built using the MERN stack, featuring intelligent course discovery and personalized learning support.
 
-[![](https://img.shields.io/badge/-💰%20Crypto%20Currency%20Tracker-000)](https://github.com/yourusername/Crypto-Tracker)  
-> Real-time cryptocurrency tracker with React & CoinGecko API.
-
-[![](https://img.shields.io/badge/-🩺%20Medical%20Diagnosis%20Assistant-000)](https://github.com/yourusername/Medical-Diagnosis-Assistant)  
-> Streamlit-based medical diagnosis app using CNN and Grad-CAM for disease visualization.
+[![](https://img.shields.io/badge/-💰%20CryptoVision-000)](https://github.com/yourusername/Crypto-Tracker)  
+> **CryptoVision** is a real-time cryptocurrency tracking application built with **React**, integrating live market data via the **CoinGecko API**.
 
 [![](https://img.shields.io/badge/-🌐%20Portfolio%20Website-000)](https://github.com/yourusername/Portfolio)  
-> Personal developer portfolio.
+> Personal developer portfolio showcasing projects, skills, and experience.
+
 
 ---
 
