@@ -11,28 +11,41 @@
 
 ## 🚀 Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=007396)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=mysql)
+
 
 ---
 
 ## ⚙️ Technologies & Tools
-![React](https://img.shields.io/badge/-React.js-000?&logo=react)
+
+### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
+![React](https://img.shields.io/badge/-React.js-000?&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=tailwind-css)
+
+### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
 ![REST API](https://img.shields.io/badge/-REST%20APIs-000?&logo=api)
+
+### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
+
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
+
 
 ---
 
