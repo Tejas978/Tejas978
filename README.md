@@ -72,7 +72,7 @@
 - 🚀 Always ready to collaborate on exciting projects and hackathons
 - 👨‍🎓 Final-year IT Engineering Student at **Mumbai University**
 - 🎯 Life Hack: "Code, Learn, Build, Repeat"
-- 🏆 Developed projects like **Neuro-Sync**, **Crypto  Tracker**, and **Medical Diagnosis Assistant**
+- 🏆 Developed projects like **Skill Boost**, **Crypto  Vision**, and **Medical Diagnosis Assistant**
 - ⚡ Fun fact: I love exploring  **PC building**, and experimenting with new tech tools
  
 
