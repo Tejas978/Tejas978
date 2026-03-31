@@ -54,12 +54,14 @@
 [![](https://img.shields.io/badge/-🚀%20SkillBoost-000)](https://github.com/yourusername/SkillBoost)  
 > **SkillBoost** is an AI-powered Learning Management System built using the MERN stack, featuring intelligent course discovery and personalized learning support.
 
+[![](https://img.shields.io/badge/-🧾%20BillDesk-000)](https://github.com/yourusername/BillDesk)  
+> **BillDesk** is a smart billing and invoice management system built using the MERN stack, featuring dynamic invoice generation, print-ready PDFs, and efficient customer & transaction management.
+
 [![](https://img.shields.io/badge/-💰%20CryptoVision-000)](https://github.com/yourusername/Crypto-Tracker)  
 > **CryptoVision** is a real-time cryptocurrency tracking application built with **React**, integrating live market data via the **CoinGecko API**.
 
 [![](https://img.shields.io/badge/-🌐%20Portfolio%20Website-000)](https://github.com/yourusername/Portfolio)  
 > Personal developer portfolio showcasing projects, skills, and experience.
-
 
 ---
 
